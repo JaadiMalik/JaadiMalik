@@ -6,8 +6,8 @@
 
 **Turning complex operations and fragmented data into useful insights, better decisions, and practical tools.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://jaadimalik.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaadi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://jaadimalik.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaadi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaadiMalik?tab=repositories)
 
 **Based in Pakistan · 7+ years across operations, logistics, business analysis & reporting**
