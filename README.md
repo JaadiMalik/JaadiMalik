@@ -70,6 +70,15 @@ A portfolio project that takes customer transaction data through cleaning, explo
 
 [Explore the analysis and dashboard project →](https://github.com/JaadiMalik/customer_behavior_analysis)
 
+### 🧤 [Manucon — Motion-Based Hand Controller](https://github.com/JaadiMalik/Manucon)
+**Earlier embedded-systems project · Arduino & Processing**
+
+An experimental hand/glove-controller codebase with an **Arduino sketch** for MPU6050 motion sensing, roll/pitch measurement, throttle input, and PPM control-signal output. A companion **Processing desktop interface** reads serial data and visualizes the controller's channels.
+
+**Stack:** `Arduino / C++` `MPU6050` `I²C` `Processing` `Serial` `PPM`
+
+[Explore the controller code and desktop visualization →](https://github.com/JaadiMalik/Manucon)
+
 ---
 
 ## Tools & technologies
